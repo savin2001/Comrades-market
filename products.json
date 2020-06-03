@@ -1,0 +1,68 @@
+{
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "fields":{
+                "title":"Great Gardens",
+                "price": 66000,
+                "image": {"fields": {"file":{"url": "media/house1.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"2"},
+            "fields":{
+                "title":"Hood Mansion",
+                "price": 50000,
+                "image": {"fields": {"file":{"url": "media/house2.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "fields":{
+                "title":"Bedford",
+                "price": 36000,
+                "image": {"fields": {"file":{"url": "media/house3.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "fields":{
+                "title":"Wonder Park",
+                "price": 40000,
+                "image": {"fields": {"file":{"url": "media/house4.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"5"},
+            "fields":{
+                "title":"Spooners",
+                "price": 36000,
+                "image": {"fields": {"file":{"url": "media/house5.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"6"},
+            "fields":{
+                "title":"Great Gardens",
+                "price": 66000,
+                "image": {"fields": {"file":{"url": "media/house6.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"7"},
+            "fields":{
+                "title":"Big Valley Apartments",
+                "price": 26000,
+                "image": {"fields": {"file":{"url": "media/house7.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"8"},
+            "fields":{
+                "title":"Trickle Apartments",
+                "price": 20000,
+                "image": {"fields": {"file":{"url": "media/house8.jpg"}}}
+            }
+        }
+    ]
+}
